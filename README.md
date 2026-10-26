@@ -4,9 +4,9 @@
 Repository ini digunakan untuk mengerjakan tugas kelompok mengenai Instruction-Level Parallelism (ILP).
 
 ## Anggota Kelompok
-1. Anggota 1
-2. Anggota 2
-3. Anggota 3
+1. Abdul Hair
+2. Akhmad Maulidan
+3. Sekti Nurjannah
 
 ## Implementasi
 - RAW (Read After Write)
